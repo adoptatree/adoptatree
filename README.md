@@ -1,5 +1,5 @@
 # adoptatree
-Adopt a Tree is an open source app for facilitating planting and maintaining trees. The first phase will be to implement the app for the City of San Francisco.
+Adopt a Tree is an open source app for facilitating planting and maintaining trees. The first phase will be to implement the app for the San Francisco.
 
 ## Call to action
 We need support in dev ops, data engineering, front-end engineering, full stack engineering, design, user experience, and PR, just to name a few areas.
